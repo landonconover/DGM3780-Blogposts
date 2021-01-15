@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DGM3780-Blogposts/static/css/main.14639fc1.chunk.css",
+    "main.js": "/DGM3780-Blogposts/static/js/main.caa4e407.chunk.js",
+    "main.js.map": "/DGM3780-Blogposts/static/js/main.caa4e407.chunk.js.map",
+    "runtime-main.js": "/DGM3780-Blogposts/static/js/runtime-main.70d7bcaf.js",
+    "runtime-main.js.map": "/DGM3780-Blogposts/static/js/runtime-main.70d7bcaf.js.map",
+    "static/js/2.86331b41.chunk.js": "/DGM3780-Blogposts/static/js/2.86331b41.chunk.js",
+    "static/js/2.86331b41.chunk.js.map": "/DGM3780-Blogposts/static/js/2.86331b41.chunk.js.map",
+    "static/js/3.0fb51c9c.chunk.js": "/DGM3780-Blogposts/static/js/3.0fb51c9c.chunk.js",
+    "static/js/3.0fb51c9c.chunk.js.map": "/DGM3780-Blogposts/static/js/3.0fb51c9c.chunk.js.map",
+    "index.html": "/DGM3780-Blogposts/index.html",
+    "static/css/main.14639fc1.chunk.css.map": "/DGM3780-Blogposts/static/css/main.14639fc1.chunk.css.map",
+    "static/js/2.86331b41.chunk.js.LICENSE.txt": "/DGM3780-Blogposts/static/js/2.86331b41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d7bcaf.js",
+    "static/js/2.86331b41.chunk.js",
+    "static/css/main.14639fc1.chunk.css",
+    "static/js/main.caa4e407.chunk.js"
+  ]
+}
